@@ -1,2 +1,2 @@
 # imagej-plugins
-Collection of ImageJ plugins.
+A collection of ImageJ plugins.
